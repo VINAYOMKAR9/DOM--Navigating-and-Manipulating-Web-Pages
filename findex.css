@@ -1,0 +1,23 @@
+#fill{
+    width: 95%;
+    height: fit-content;
+    margin: 5px 0px 20px 15px;
+    padding: 5px;
+}
+#container{
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+}
+#container>div{
+    border: 1px solid orangered;
+    border-radius: 10px;
+    padding: 20px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    margin-left: 32%;
+}
