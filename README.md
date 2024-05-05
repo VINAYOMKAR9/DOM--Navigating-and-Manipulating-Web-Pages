@@ -15,3 +15,6 @@ In this Project I also use filter by categary
 
 In this Project I also use sorting by price in asc and dec order  and basis on the popularity 
 ![Screenshot (17)](https://github.com/VINAYOMKAR9/DOM--Navigating-and-Manipulating-Web-Pages/assets/109261762/41dde2fb-e852-4605-93cd-7b060bf2ddfa)
+
+
+![Screenshot (18)](https://github.com/VINAYOMKAR9/DOM--Navigating-and-Manipulating-Web-Pages/assets/109261762/2ab4cec3-9dcc-482a-97af-53c8dbac5fb2)
